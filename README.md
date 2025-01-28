@@ -19,5 +19,5 @@ Distribution of transactions by UPI, debit card, credit card, and cash.
 Sales comparison among brands (Apple, OnePlus, Samsung, Vivo) and popular models (iPhone SE, OnePlus Nord, Galaxy Note 20).
 #### Daily Sales Patterns: 
 Sales trends by days of the week.
-### Conclusion:
+## Conclusion:
 This dashboard helps in understanding sales performance, customer preferences, and payment trends, aiding in strategic decision-making. It is useful for tracking sales trends over time, identifying top-performing brands, and optimizing sales strategies based on insights.
